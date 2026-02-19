@@ -1,0 +1,4 @@
+rich
+pytchat
+yt-dlp
+psutil
